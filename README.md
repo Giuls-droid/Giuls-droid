@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giuls-droid aka Giuliano. Welcome to my repo. 
 - 👀 I’m interested in science and technology --> Computers, videogames, chips, and much more
-- 🌱 I’m currently a passionate researcher in the field of semiconductor technology.
+- 🌱 I’m a passionate researcher in the field of semiconductor technology.
 - 📫 Personal email giuliano.sisto1@gmail.com 
 
 <!---
